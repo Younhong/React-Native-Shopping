@@ -1,3 +1,3 @@
 # React-Native-Shopping
 
-Source - Traversy Media
+Lecture - Traversy Media
